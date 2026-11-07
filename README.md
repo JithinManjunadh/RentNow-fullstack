@@ -4,8 +4,6 @@ A full-stack, server-rendered property rental web app (Airbnb-style). Hosts publ
 
 Built with **Node.js, Express 5, MongoDB (Mongoose), EJS, Passport, Cloudinary, Mapbox and Google Gemini**.
 
-> **Naming note:** the product UI says "Rent Now", but some leftovers from the original "Wanderlust" project remain in the code (the `package.json` name is `majorproject`, the signup page says "SignUp on Wanderlust", Cloudinary uploads go to a `wanderlust_DEV` folder, and the seed script targets a `wanderlust` database).
-
 ---
 
 ## Table of Contents
